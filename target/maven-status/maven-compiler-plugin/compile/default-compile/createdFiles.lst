@@ -1,0 +1,4 @@
+com\mycompany\libraryproject\App.class
+com\mycompany\libraryproject\PrimaryController.class
+module-info.class
+com\mycompany\libraryproject\SecondaryController.class
